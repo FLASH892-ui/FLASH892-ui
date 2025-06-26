@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C,C++,Python,HTML,CSS,JS 
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me ...
-- 😄 Pronouns: Flash
+- 😄 Pronouns: Avi
 - ⚡ Fun fact: I am a beginner 🥲🤣
 
 <!---
