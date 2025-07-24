@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FLASH892-ui
+- 👋 Hi, I’m Avinandan Maity 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning :
 - C : Intermideate ( not learning rn);
