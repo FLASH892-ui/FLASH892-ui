@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning :
 - C : Intermideate ( not learning rn);
-- C++ : Intermideate to advanced (currently learning OOPs and DSA);
+- C++ : Intermideate to advanced (currently learning OOPs(objects and classes)and DSA(arrays));
 - Python : Intermideate to advanced (currently learning AI/ML);
 - HTML : Advanced
 - CSS : Advanced
