@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning :
 - C : Intermideate ( not learning rn);
 - C++ : Intermideate to advanced (currently learning OOPs(objects and classes)and DSA(arrays));
-- Python : Intermideate to advanced (currently learning AI/ML);
+- Python :
 - HTML : Advanced
 - CSS : Advanced
 - JS : Intermideate to advanced (currently learning ES6);
