@@ -6,7 +6,7 @@
 - Python :
 - HTML : Advanced
 - CSS : Advanced
-- JS : Intermideate to advanced (currently learning ES6);
+- JS : Intermediate to advanced(learning destructuring,.map(),.filter(),.reduce().
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: Avi
