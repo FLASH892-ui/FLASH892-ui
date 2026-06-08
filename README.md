@@ -2,14 +2,15 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning :
 - C : Intermideate ( not learning rn);
-- C++ : Intermideate to advanced (currently learning OOPs(objects and classes)and DSA(arrays));
-- Python :
+- C++ : Intermideate to advanced (currently not in touch);
+- JAVA : Intermideate to advanced
+- Python : Advanced
 - HTML : Advanced
 - CSS : Advanced
-- JS : Intermediate to advanced(learning destructuring,.map(),.filter(),.reduce().
+- JS : Learning Expess.js
 - 💞️ I’m looking to collaborate on various projects 
-- 📫 How to reach me ...
-- 😄 Pronouns: Avi
+- 📫 How to reach me : maityavinandan079@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an Intermediate🥲🤣
 
 <!---
